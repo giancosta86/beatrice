@@ -1,6 +1,6 @@
 {
   "name": "@giancosta86/beatrice",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simplified text-to-speech for the browser",
   "keywords": [
     "text-to-speech",
@@ -17,7 +17,7 @@
     "url": "https://gianlucacosta.info/"
   },
   "files": [],
-  "browser": "dist",
+  "main": "dist",
   "types": "dist",
   "repository": "giancosta86/beatrice",
   "scripts": {
